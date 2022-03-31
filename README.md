@@ -16,6 +16,8 @@ Visual Studio Code - Code Editing. Redefined
 
 Link do nosso projeto https://young-pets.surge.sh/
 
+Link original do repositório: https://github.com/future4code/Moreira-labe-ninja1
+
 Autores
 Desenvolvedores do projeto
 
